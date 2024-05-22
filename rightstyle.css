@@ -1,0 +1,44 @@
+.rightcontainer{
+    margin: 20px 0;
+    background-color: white;
+    width: 67vw;
+    border-radius: 20px;
+    padding: 40px;
+}
+.rightcontainer h3{
+    font: 30px Arial;
+}
+.rightcontainer ul{
+    list-style-type: none;
+    padding: 10px 30px;
+}
+.items{
+    background-color: rgb(230,230,230);
+    margin: 10px 100px 20px 0px;
+    border-radius: 15px;
+}
+.course{
+    font: 17px Arial;
+    font-weight: bold;
+}
+.inst{
+    font: 16px Arial;
+}
+.duration{
+    font: 16px consolas;
+}
+.grade{
+    font: 16px Arial;
+}
+.git-link{
+    font: 17px consolas;
+}
+.p-up{
+    padding: 15px 0px 2px 15px;
+}
+.p-mid{
+    padding: 2px 15px;
+}
+.p-down{
+    padding: 2px 0px 15px 15px;
+}

@@ -1,0 +1,41 @@
+.leftcontainer{
+    width: 25vw;
+}
+.left-heads{
+    font: 30px Arial;
+    text-align: center;
+    padding: 10px;
+}
+.contacts{
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px 10px;
+}
+.contacts ul{
+    list-style-type: none;
+}
+.contacts ul li a{
+    padding: 0 15px 15px 15px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font: 17px Consolas;
+    color: black;
+}
+.contacts ul li a:hover{
+    color: blue;
+}
+.contact-img{
+    padding: 0 5px 0 0;
+    width: 20px;
+}
+
+.skills{
+    background-color: white;
+    margin: 10px 10px 30px 10px;
+    border-radius: 20px;
+}
+.skill-list{
+    padding: 15px;
+    font: 19px sans-serif;
+}
