@@ -39,3 +39,8 @@
     padding: 15px;
     font: 19px sans-serif;
 }
+@media screen and (max-width: 500px) {
+    .leftcontainer{
+        width: 96vw;
+    }
+}

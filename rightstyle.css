@@ -42,3 +42,17 @@
 .p-down{
     padding: 2px 0px 15px 15px;
 }
+@media screen and (max-width: 500px) {
+    .rightcontainer{
+        width: 83vw;        
+        padding: 20px;
+        margin: 10px;
+    }
+    .items{
+        width: 80vw;
+        margin: 20px 5px;
+    }
+    .rightcontainer ul{
+        padding: 10px 0px;
+    }
+}
