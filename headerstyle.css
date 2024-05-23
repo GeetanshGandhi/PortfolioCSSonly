@@ -34,9 +34,12 @@ header{
         height: 300px;
     }
     .title{
-        font: 20px "Oswald";
+        font: 30px "Oswald";
     }
     hr{
         width: 80%;
+    }
+    .headimg{
+        margin: 10px;
     }
 }
