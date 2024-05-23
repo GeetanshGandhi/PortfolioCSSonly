@@ -33,6 +33,9 @@ header{
     .headcontainer{
         height: 300px;
     }
+    .title{
+        font: 40px "Oswald";
+    }
     hr{
         width: 80%;
     }
